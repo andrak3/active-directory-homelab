@@ -79,27 +79,7 @@ The environment was built in **Oracle VirtualBox** using a Windows Server 2022 d
 - PowerShell administration, CSV-based onboarding, and reporting
 - Technical validation and documentation
 
-## Repository Documentation
 
-Screenshots and detailed implementation notes can be organized alongside this README, for example:
-
-```text
-Active-Directory-Home-Lab/
-├── README.md
-├── documentation/
-│   └── Active-Directory-Lab-Documentation.docx
-└── screenshots/
-    ├── domain-and-ou-configuration/
-    ├── group-policy/
-    ├── file-sharing/
-    └── powershell-automation/
-```
-
-*The folder structure above is a suggested repository layout; add only files you actually intend to publish.*
-
-## Scope and Limitations
-
-This is a **single-domain-controller training lab**, not a production-ready Active Directory deployment. It does not claim high availability, multiple domain controllers, enterprise network segmentation, or a completed print-service rollout. Some validation demonstrates GPO application or specific observed test results rather than exhaustive security-policy enforcement testing.
 
 ## Project Outcome
 
